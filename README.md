@@ -74,4 +74,4 @@ This is the **static approach** - user has full control over the prompt.
 
 ## License
 
-MIT License - Free to use for learning!
+ Free to use for learning!
